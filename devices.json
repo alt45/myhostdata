@@ -1,0 +1,113 @@
+{
+    "data": [
+        
+        {
+            "id": "*1623",
+            "address": "10.4.160.13",
+            "mac": "F0:79:E8:1D:87:61",
+            "hostname": "android-5f8555b99242c18",
+            "lastseen": "2m39s",
+            "status": "bound",
+            "type": "Unknown"
+        },
+        {
+            "id": "*37",
+            "address": "192.168.1.30",
+            "mac": "C4:DD:57:39:FD:3F",
+            "hostname": "ESP_39FD3F",
+            "lastseen": "6d17h5m11s",
+            "status": "waiting",
+            "type": "IOT"
+        },
+        {
+            "id": "*1106",
+            "address": "192.168.1.41",
+            "mac": "B8:06:0D:55:D6:A9",
+            "hostname": "wlan0",
+            "lastseen": "1m13s",
+            "status": "bound",
+            "type": "IOT"
+        },
+        {
+            "id": "*4C",
+            "address": "192.168.1.80",
+            "mac": "58:85:A2:65:D4:AF",
+            "hostname": "realme-C2",
+            "lastseen": "3m12s",
+            "status": "bound",
+            "type": "PHONE"
+        },
+        {
+            "id": "*10DA",
+            "address": "192.168.1.88",
+            "mac": "68:BF:C4:ED:AD:34",
+            "hostname": "Localhost",
+            "lastseen": "23h1m25s",
+            "status": "waiting",
+            "type": "PHONE"
+        },
+        {
+            "id": "*EC4",
+            "address": "192.168.1.100",
+            "mac": "9C:8E:99:E1:2C:23",
+            "hostname": "miniubuntu",
+            "lastseen": "69w22h53m45s",
+            "status": "waiting",
+            "type": "IP CAMERA"
+        },
+        {
+            "id": "*39",
+            "address": "192.168.1.102",
+            "mac": "44:23:7C:4C:CD:1F",
+            "hostname": "wificam.lan",
+            "lastseen": "4m15s",
+            "status": "bound",
+            "type": "IP CAMERA"
+        },
+        {
+            "id": "*9C6",
+            "address": "192.168.1.116",
+            "mac": "DC:DF:D6:9B:1D:A0",
+            "hostname": "N\/A",
+            "lastseen": "3m6s",
+            "status": "bound",
+            "type": "IP CAMERA"
+        },
+        {
+            "id": "*1493",
+            "address": "192.168.1.118",
+            "mac": "DC:DF:D6:9D:EE:2B",
+            "hostname": "N\/A",
+            "lastseen": "3d22h1m19s",
+            "status": "waiting",
+            "type": "IP CAMERA"
+        },
+        {
+            "id": "*149C",
+            "address": "192.168.1.131",
+            "mac": "00:E0:99:00:7C:99",
+            "hostname": "gxbox",
+            "lastseen": "1w2d16h16m43s",
+            "status": "waiting",
+            "type": "IP CAMERA"
+        },
+        {
+            "id": "*36",
+            "address": "192.168.1.230",
+            "mac": "70:5A:0F:8E:08:74",
+            "hostname": "laptophitam",
+            "lastseen": "18h34m59s",
+            "status": "waiting",
+            "type": "PC"
+        },
+        {
+            "id": "*5DC",
+            "address": "192.168.1.231",
+            "mac": "44:1C:A8:22:BC:79",
+            "hostname": "laptophitam",
+            "lastseen": "18h36m44s",
+            "status": "waiting",
+            "type": "PC"
+        }
+    ]
+}
